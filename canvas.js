@@ -30,9 +30,7 @@ var draw = function(e){
 	ctx.lineTo(x,y);
 	startX = x;
 	startY = y;
-	//circle(x,y);
 	ctx.stroke();
-	//circle(x,y);
     }
 }
 
